@@ -16,6 +16,8 @@
 		AE9212B029D81BB600A5CAEA /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9212AF29D81BB600A5CAEA /* Location.swift */; };
 		AE9212B229D820E500A5CAEA /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9212B129D820E500A5CAEA /* Locations.swift */; };
 		AE9212B429D82B4B00A5CAEA /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9212B329D82B4B00A5CAEA /* WorldView.swift */; };
+		AE9212B629D843AB00A5CAEA /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9212B529D843AB00A5CAEA /* Tip.swift */; };
+		AE9212B829D8453700A5CAEA /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9212B729D8453700A5CAEA /* TipsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		AE9212AF29D81BB600A5CAEA /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		AE9212B129D820E500A5CAEA /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		AE9212B329D82B4B00A5CAEA /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
+		AE9212B529D843AB00A5CAEA /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		AE9212B729D8453700A5CAEA /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				AE9212AF29D81BB600A5CAEA /* Location.swift */,
 				AE9212B129D820E500A5CAEA /* Locations.swift */,
 				AE92129D29D801F600A5CAEA /* TrekrApp.swift */,
+				AE9212B529D843AB00A5CAEA /* Tip.swift */,
+				AE9212B729D8453700A5CAEA /* TipsView.swift */,
 				AE9212B329D82B4B00A5CAEA /* WorldView.swift */,
 				AE9212A129D801F700A5CAEA /* Assets.xcassets */,
 				AE9212A329D801F700A5CAEA /* Preview Content */,
@@ -157,6 +163,8 @@
 				AE9212A029D801F600A5CAEA /* ContentView.swift in Sources */,
 				AE9212B029D81BB600A5CAEA /* Location.swift in Sources */,
 				AE9212B429D82B4B00A5CAEA /* WorldView.swift in Sources */,
+				AE9212B629D843AB00A5CAEA /* Tip.swift in Sources */,
+				AE9212B829D8453700A5CAEA /* TipsView.swift in Sources */,
 				AE9212B229D820E500A5CAEA /* Locations.swift in Sources */,
 				AE92129E29D801F600A5CAEA /* TrekrApp.swift in Sources */,
 			);
